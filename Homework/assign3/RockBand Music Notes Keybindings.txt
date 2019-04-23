@@ -1,0 +1,27 @@
+Guitar Notes:
+Octave 0:	    Octave 1:		    Octave 2:		    Octave 3:
+` ==> A	            = ==> A                 ] ==> A                 ' ==> A
+1 ==> A#/Bb         Q ==> A#/Bb             \ ==> A#/Bb
+2 ==> B             W ==> B                 A ==> B
+3 ==> C             E ==> C                 S ==> C
+4 ==> C#/Db         R ==> C#/Db             D ==> C#/Db
+5 ==> D             T ==> D                 F ==> D
+6 ==> D#/Eb         Y ==> D#/Eb             G ==> D#/Ab
+7 ==> E             U ==> E                 H ==> E
+8 ==> F             I ==> F                 J ==> F
+9 ==> F#/Gb         O ==> F#/Gb             K ==> F#/Gb
+0 ==> G             P ==> G                 L ==> G
+- ==> G#/Ab         [ ==> G#/Ab             ; ==> G#/Ab
+
+Press Enter to switch between Bass and Guitar Notes
+
+Bass Notes are the same notes as Guitar Notes but 3 octaves lower. For example,
+the Guitar Notes highest octave A is the same as Guitar Notes lowest octave A in Bass Notes.
+
+Piano Notes are played by holding the Shift key and playing on any key that doesn't trigger
+the Drum Notes.
+
+Drum Notes: (all the same sound)
+Z, X, C, V, B, N, M, comma, period
+
+Good luck in music making!
